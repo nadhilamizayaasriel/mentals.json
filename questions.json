@@ -1,0 +1,22 @@
+[
+    { "question": "Seberapa sering Anda merasa gelisah dalam situasi sehari-hari?" },
+    { "question": "Sejauh mana Anda mengalami kegelisahan terkait pekerjaan atau tugas-tugas harian?" },
+    { "question": "Seberapa sering Anda mengalami perasaan tegang tanpa alasan yang jelas?" },
+    { "question": "Sejauh mana Anda merasa mudah lelah saat bekerja atau belajar?" },
+    { "question": "Apakah Anda sering merasa lelah meskipun tidur cukup waktu?" },
+    { "question": "Rasa kecemasan muncul bukan dari efek suatu zat misalnya dalam penggunaan obat-obatan atau kecanduan suatu zat." },
+    { "question": "Seberapa sering Anda merasa mudah lelah setelah melakukan kegiatan sosial atau berinteraksi dengan orang lain?" },
+    { "question": "Seberapa sering Anda mengalami kesulitan berkonsentrasi dalam kegiatan sehari-hari?" },
+    { "question": "Apakah Anda sering merasa sulit untuk mempertahankan konsentrasi saat bekerja atau belajar?" },
+    { "question": "Seberapa sering Anda mengalami keadaan dimana pikiran Anda tiba-tiba kosong tanpa alasan yang jelas?" },
+    { "question": "Seberapa sering Anda mengalami perubahan mood yang tiba-tiba dan sulit diatasi?" },
+    { "question": "Sejauh mana Anda merasa sulit untuk mengendalikan emosi Anda dalam situasi tertentu?" },
+    { "question": "Apakah Anda sering merasa mudah tersinggung atau marah tanpa alasan yang jelas?" },
+    { "question": "Seberapa sering Anda mengalami ketegangan otot dalam sehari?" },
+    { "question": "Sejauh mana Anda merasa ketegangan otot mempengaruhi keseharian Anda?" },
+    { "question": "Apakah Anda mengalami ketegangan otot setelah aktivitas fisik tertentu?" },
+    { "question": "Seberapa sering Anda merasa gelisah atau tidak nyaman saat mencoba untuk tidur?" },
+    { "question": "Seberapa sering Anda terbangun di tengah malam dan sulit untuk kembali tidur?" },
+    { "question": "Seberapa sering Anda merasa tidak puas atau tidak segar setelah tidur malam?" },
+    { "question": Rasa perasaan cemas dan khawatir muncul bukan karena suatu gangguan mental lain, seperti karena phobia, trauma, depresi atau masalah kesehatan mental lainnya?" }
+]
